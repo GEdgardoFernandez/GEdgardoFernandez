@@ -40,7 +40,7 @@ Estoy altamente motivado y emocionado por la industria del software. Mi objetivo
 
 ¡No dudes en contactarme o revisar mis repositorios para ver mis proyectos y contribuciones!
 
-## 📫Contactame
+## 📫 Contactame
 
 📫 **Contacto:** [Contactame](gecozzi87@gmail.com)
 🔗 **LinkedIn:** [Perfil](https://www.linkedin.com/in/guillermo-fern%C3%A1ndez-703b50267)
