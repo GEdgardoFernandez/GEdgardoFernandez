@@ -1,9 +1,9 @@
 # 🌐 Desarrollador Full Stack - Guillermo Fernandez 
 
 - [🛠 Habilidades](#-habilidades)
-- [🚀 Mi Trayectoria](#-mi-trayectoria)
 - [🎓 Estudios Actuales](#-estudios-actuales)
 - [💻 Objetivos Profesionales](#-objetivos-profesionales)
+- [🚀 Mi Trayectoria](#-mi-trayectoria)
 - [📫 Contacto](#-contactame)
 
 👋 ¡Hola! 
