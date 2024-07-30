@@ -4,7 +4,7 @@
 - [🚀 Mi Trayectoria](#-mi-trayectoria)
 - [🎓 Estudios Actuales](#-estudios-actuales)
 - [💻 Objetivos Profesionales](#-objetivos-profesionales)
-- [📫 Contacto](#-contacto)
+- [📫 Contacto](#-contactame)
 
 👋 ¡Hola! 
 🌐 Soy un Desarrollador Full Stack con una sólida formación autodidacta y continua.
@@ -39,6 +39,8 @@ Estoy altamente motivado y emocionado por la industria del software. Mi objetivo
 ---
 
 ¡No dudes en contactarme o revisar mis repositorios para ver mis proyectos y contribuciones!
+
+## 📫Contactame
 
 📫 **Contacto:** [Contactame](gecozzi87@gmail.com)
 🔗 **LinkedIn:** [Perfil](https://www.linkedin.com/in/guillermo-fern%C3%A1ndez-703b50267)
