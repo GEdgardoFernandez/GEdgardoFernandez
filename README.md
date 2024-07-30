@@ -42,5 +42,5 @@ Estoy altamente motivado y emocionado por la industria del software. Mi objetivo
 
 ## 📫 Contactame
 
-📫 **Contacto:** [gecozzi87@gmail.com](gecozzi87@gmail.com)
+📫 **Contacto:** gecozzi87@gmail.com
 🔗 **LinkedIn:** [Perfil](https://www.linkedin.com/in/guillermo-fern%C3%A1ndez-703b50267)
