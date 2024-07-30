@@ -1,4 +1,4 @@
-# 🌐 Desarrollador Full Stack - GUillermo Fernandez 
+# 🌐 Desarrollador Full Stack - Guillermo Fernandez 
 
 - [🛠 Habilidades](#-habilidades)
 - [🚀 Mi Trayectoria](#-mi-trayectoria)
