@@ -1,5 +1,11 @@
 # 🌐 Desarrollador Full Stack - GUillermo Fernandez 
 
+- [🛠 Habilidades](#-habilidades)
+- [🚀 Mi Trayectoria](#-mi-trayectoria)
+- [🎓 Estudios Actuales](#-estudios-actuales)
+- [💻 Objetivos Profesionales](#-objetivos-profesionales)
+- [📫 Contacto](#-contacto)
+
 👋 ¡Hola! 
 🌐 Soy un Desarrollador Full Stack con una sólida formación autodidacta y continua.
 
