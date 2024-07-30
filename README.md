@@ -1,12 +1,7 @@
-# 🌐 Desarrollador Full Stack - [GUillermo Fernandez] 
+# 🌐 Desarrollador Full Stack - GUillermo Fernandez 
 
 👋 ¡Hola! 
-🌐 Soy un Desarrollador Full Stack con una sólida formación autodidacta y continua. Poseo un profundo conocimiento en diagnóstico y solución de problemas técnicos en software y hardware, así como una comprensión detallada de sistemas operativos, aplicaciones, drivers, componentes de hardware y configuraciones de red.
-
-🚀 Inicié mi carrera en programación con el curso de Responsive Web Design en FreeCodeCamp, adquiriendo conocimientos en HTML, CSS y JavaScript. Luego, participé en el curso de Primeros Pasos en el Desarrollo Frontend de Argentina Programa 4.0, donde reforcé y mejoré mis habilidades. Posteriormente, completé el curso de Programador Full Stack en los proyectos T. Tec. San Juan, profundizando en Java, Spring y SQL, y desarrollando habilidades blandas clave como la comunicación efectiva y el trabajo en equipo.
-
-🎓 Actualmente, estoy cursando en Henry, mejorando mis competencias en React, Node.js, PostgreSQL, Axios, Express y NPM, y fortaleciendo habilidades como paciencia, puntualidad y organización. Mis habilidades blandas me permiten colaborar en proyectos de alto rendimiento y compartir conocimientos de manera efectiva.
-💻 Estoy altamente motivado y emocionado por la industria de software. Mi objetivo a largo plazo es contribuir al desarrollo de software en empresas de prestigio global. Mi constante deseo de aprender y mejorar mis habilidades me mantiene al día con las últimas tendencias y tecnologías en el mundo del desarrollo web y software.
+🌐 Soy un Desarrollador Full Stack con una sólida formación autodidacta y continua.
 
 ## 🛠 Habilidades
 
@@ -39,5 +34,5 @@ Estoy altamente motivado y emocionado por la industria del software. Mi objetivo
 
 ¡No dudes en contactarme o revisar mis repositorios para ver mis proyectos y contribuciones!
 
-📫 **Contacto:** [gecozzi87@gmail.com]
-🔗 **LinkedIn:** [https://www.linkedin.com/in/guillermo-fern%C3%A1ndez-703b50267]
+📫 **Contacto:** [Contactame](gecozzi87@gmail.com)
+🔗 **LinkedIn:** [Perfil](https://www.linkedin.com/in/guillermo-fern%C3%A1ndez-703b50267)
